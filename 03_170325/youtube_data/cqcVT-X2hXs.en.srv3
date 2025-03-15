@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="utf-8" ?><timedtext format="3">
+<head>
+<ws id="0"/>
+<ws id="1" mh="2" ju="0" sd="3"/>
+<wp id="0"/>
+<wp id="1" ap="6" ah="20" av="100" rc="2" cc="40"/>
+</head>
+<body>
+<w t="0" id="1" wp="1" ws="1"/>
+<p t="80" d="4640" w="1"><s ac="255">one</s><s t="319" ac="255"> of</s><s t="480" ac="255"> the</s><s t="639" ac="255"> best</s><s t="1040" ac="255"> things</s><s t="1440" ac="255"> about</s><s t="1840" ac="255"> traveling</s></p>
+<p t="2389" d="2331" w="1" a="1">
+</p>
+<p t="2399" d="4801" w="1"><s ac="255">the</s><s t="81" ac="255"> world</s><s t="721" ac="255"> is</s><s t="881" ac="255"> being</s><s t="1280" ac="255"> able</s><s t="1601" ac="255"> to</s><s t="1761" ac="255"> try</s><s t="2081" ac="255"> some</s><s t="2241" ac="255"> of</s></p>
+<p t="4710" d="2490" w="1" a="1">
+</p>
+<p t="4720" d="4400" w="1"><s ac="255">the</s><s t="160" ac="255"> most</s><s t="559" ac="255"> amazing</s><s t="1200" ac="255"> food</s><s t="1760" ac="255"> from</s><s t="2000" ac="255"> countries</s></p>
+<p t="7190" d="1930" w="1" a="1">
+</p>
+<p t="7200" d="4080" w="1"><s ac="255">around</s><s t="400" ac="255"> the</s><s t="480" ac="255"> world</s><s t="880" ac="255"> this</s><s t="1120" ac="255"> is</s><s t="1280" ac="255"> katie</s><s t="1680" ac="255"> from</s></p>
+<p t="9110" d="2170" w="1" a="1">
+</p>
+<p t="9120" d="4800" w="1"><s ac="255">creative</s><s t="479" ac="255"> travel</s><s t="800" ac="255"> guide</s><s t="1280" ac="255"> and</s><s t="1519" ac="255"> today</s><s t="1840" ac="255"> we</s><s t="2000" ac="255"> are</s></p>
+<p t="11270" d="2650" w="1" a="1">
+</p>
+<p t="11280" d="5640" w="1"><s ac="255">sharing</s><s t="319" ac="255"> the</s><s t="560" ac="255"> 15</s><s t="1279" ac="255"> best</s><s t="1600" ac="255"> foods</s><s t="2160" ac="255"> around</s><s t="2560" ac="255"> the</s></p>
+<p t="13910" d="3010" w="1" a="1">
+</p>
+<p t="13920" d="3000" w="1"><s ac="255">world</s></p>
+<p t="18910" w="1" a="1">
+</p>
+<p t="18920" d="9880" w="1">[Music]</p>
+<p t="26790" d="2010" w="1" a="1">
+</p>
+<p t="26800" d="3680" w="1"><s ac="255">looking</s><s t="239" ac="255"> for</s><s t="399" ac="255"> more</s><s t="639" ac="255"> travel</s><s t="1040" ac="255"> tips</s><s t="1680" ac="255"> make</s><s t="1840" ac="255"> sure</s></p>
+<p t="28790" d="1690" w="1" a="1">
+</p>
+<p t="28800" d="3360" w="1"><s ac="255">you</s><s t="160" ac="255"> hit</s><s t="319" ac="255"> subscribe</s><s t="1040" ac="255"> and</s><s t="1280" ac="255"> ring</s><s t="1520" ac="255"> that</s></p>
+<p t="30470" d="1690" w="1" a="1">
+</p>
+<p t="30480" d="3919" w="1"><s ac="255">notification</s><s t="799" ac="255"> bell</s></p>
+<p t="32150" d="2249" w="1" a="1">
+</p>
+<p t="32160" d="5440" w="1"><s ac="255">so</s><s t="239" ac="255"> our</s><s t="480" ac="255"> first</s><s t="960" ac="255"> favorite</s><s t="1360" ac="255"> food</s><s t="1680" ac="255"> from</s><s t="1919" ac="255"> around</s></p>
+<p t="34389" d="3211" w="1" a="1">
+</p>
+<p t="34399" d="5281" w="1"><s ac="255">the</s><s t="81" ac="255"> world</s><s t="721" ac="255"> is</s><s t="1041" ac="255"> ramen</s><s t="1521" ac="255"> from</s><s t="1761" ac="255"> japan</s><s t="2721" ac="255"> if</s><s t="2881" ac="255"> you</s><s t="3041" ac="255"> are</s></p>
+<p t="37590" d="2090" w="1" a="1">
+</p>
+<p t="37600" d="4720" w="1"><s ac="255">eager</s><s t="320" ac="255"> to</s><s t="560" ac="255"> dive</s><s t="959" ac="255"> into</s><s t="1119" ac="255"> the</s><s t="1279" ac="255"> more</s><s t="1600" ac="255"> luscious</s></p>
+<p t="39670" d="2650" w="1" a="1">
+</p>
+<p t="39680" d="5520" w="1"><s ac="255">flavors</s><s t="559" ac="255"> of</s><s t="719" ac="255"> asia</s><s t="1440" ac="255"> head</s><s t="1760" ac="255"> to</s><s t="1920" ac="255"> the</s><s t="2080" ac="255"> japanese</s></p>
+<p t="42310" d="2890" w="1" a="1">
+</p>
+<p t="42320" d="4399" w="1"><s ac="255">cuisine</s><s t="559" ac="255"> ramen</s><s t="1520" ac="255"> this</s><s t="1919" ac="255"> noodle</s><s t="2239" ac="255"> dish</s><s t="2480" ac="255"> can</s><s t="2640" ac="255"> be</s></p>
+<p t="45190" d="1529" w="1" a="1">
+</p>
+<p t="45200" d="3839" w="1"><s ac="255">partnered</s><s t="320" ac="255"> with</s><s t="560" ac="255"> lots</s><s t="800" ac="255"> of</s><s t="879" ac="255"> different</s><s t="1199" ac="255"> types</s></p>
+<p t="46709" d="2330" w="1" a="1">
+</p>
+<p t="46719" d="5360" w="1"><s ac="255">of</s><s t="241" ac="255"> meat</s><s t="561" ac="255"> and</s><s t="721" ac="255"> vegetables</s><s t="1520" ac="255"> but</s><s t="1680" ac="255"> you</s><s t="1761" ac="255"> can</s><s t="2000" ac="255"> also</s></p>
+<p t="49029" d="3050" w="1" a="1">
+</p>
+<p t="49039" d="5360" w="1"><s ac="255">find</s><s t="241" ac="255"> them</s><s t="561" ac="255"> on</s><s t="801" ac="255"> every</s><s t="1121" ac="255"> corner</s><s t="1520" ac="255"> of</s><s t="1680" ac="255"> japan</s></p>
+<p t="52069" d="2330" w="1" a="1">
+</p>
+<p t="52079" d="4881" w="1"><s ac="255">now</s><s t="320" ac="255"> our</s><s t="561" ac="255"> next</s><s t="1120" ac="255"> favorite</s><s t="1601" ac="255"> dish</s><s t="1841" ac="255"> from</s><s t="2000" ac="255"> around</s></p>
+<p t="54389" d="2571" w="1" a="1">
+</p>
+<p t="54399" d="5441" w="1"><s ac="255">the</s><s t="160" ac="255"> world</s><s t="480" ac="255"> is</s><s t="721" ac="255"> also</s><s t="1041" ac="255"> an</s><s t="1201" ac="255"> asian</s><s t="1601" ac="255"> option</s><s t="2160" ac="255"> it</s><s t="2401" ac="255"> is</s></p>
+<p t="56950" d="2890" w="1" a="1">
+</p>
+<p t="56960" d="5520" w="1"><s ac="255">the</s><s t="160" ac="255"> hot</s><s t="480" ac="255"> pot</s><s t="960" ac="255"> in</s><s t="1200" ac="255"> china</s><s t="2000" ac="255"> one</s><s t="2239" ac="255"> of</s><s t="2399" ac="255"> the</s><s t="2560" ac="255"> best</s></p>
+<p t="59830" d="2650" w="1" a="1">
+</p>
+<p t="59840" d="4639" w="1"><s ac="255">meals</s><s t="320" ac="255"> to</s><s t="559" ac="255"> have</s><s t="879" ac="255"> when</s><s t="1199" ac="255"> in</s><s t="1440" ac="255"> china</s><s t="2000" ac="255"> has</s><s t="2239" ac="255"> to</s><s t="2320" ac="255"> be</s></p>
+<p t="62470" d="2009" w="1" a="1">
+</p>
+<p t="62480" d="4480" w="1"><s ac="255">their</s><s t="239" ac="255"> amazing</s><s t="800" ac="255"> hot</s><s t="1120" ac="255"> pot</s></p>
+<p t="64469" d="2491" w="1" a="1">
+</p>
+<p t="64479" d="5041" w="1"><s ac="255">to</s><s t="161" ac="255"> begin</s><s t="561" ac="255"> with</s><s t="960" ac="255"> choose</s><s t="1281" ac="255"> your</s><s t="1441" ac="255"> broth</s><s t="2081" ac="255"> you</s><s t="2241" ac="255"> may</s></p>
+<p t="66950" d="2570" w="1" a="1">
+</p>
+<p t="66960" d="5360" w="1"><s ac="255">stick</s><s t="320" ac="255"> to</s><s t="479" ac="255"> a</s><s t="640" ac="255"> clear</s><s t="1040" ac="255"> soup</s><s t="1360" ac="255"> or</s><s t="1519" ac="255"> go</s><s t="1680" ac="255"> for</s><s t="1839" ac="255"> a</s><s t="2000" ac="255"> sesame</s></p>
+<p t="69510" d="2810" w="1" a="1">
+</p>
+<p t="69520" d="5599" w="1"><s ac="255">and</s><s t="160" ac="255"> soy</s><s t="480" ac="255"> sauce</s><s t="800" ac="255"> black</s><s t="1120" ac="255"> soup</s><s t="1680" ac="255"> or</s><s t="1919" ac="255"> even</s><s t="2240" ac="255"> get</s><s t="2560" ac="255"> a</s></p>
+<p t="72310" d="2809" w="1" a="1">
+</p>
+<p t="72320" d="5600" w="1"><s ac="255">spicy</s><s t="560" ac="255"> sichuan</s><s t="1119" ac="255"> broth</s><s t="1680" ac="255"> next</s><s t="2159" ac="255"> choose</s><s t="2479" ac="255"> your</s></p>
+<p t="75109" d="2811" w="1" a="1">
+</p>
+<p t="75119" d="4961" w="1"><s ac="255">meats</s><s t="481" ac="255"> seafood</s><s t="1121" ac="255"> and</s><s t="1281" ac="255"> veg</s><s t="1921" ac="255"> ready</s><s t="2241" ac="255"> to</s><s t="2401" ac="255"> cook</s><s t="2721" ac="255"> in</s></p>
+<p t="77910" d="2170" w="1" a="1">
+</p>
+<p t="77920" d="4559" w="1"><s ac="255">the</s><s t="160" ac="255"> soup</s><s t="800" ac="255"> in</s><s t="960" ac="255"> many</s><s t="1280" ac="255"> chinese</s><s t="1680" ac="255"> restaurants</s></p>
+<p t="80070" d="2409" w="1" a="1">
+</p>
+<p t="80080" d="4560" w="1"><s ac="255">around</s><s t="320" ac="255"> the</s><s t="399" ac="255"> country</s><s t="1200" ac="255"> you</s><s t="1359" ac="255"> can</s><s t="1600" ac="255"> find</s><s t="1920" ac="255"> various</s></p>
+<p t="82469" d="2171" w="1" a="1">
+</p>
+<p t="82479" d="6521" w="1"><s ac="255">different</s><s t="401" ac="255"> sources</s><s t="801" ac="255"> for</s><s t="960" ac="255"> you</s><s t="1121" ac="255"> to</s><s t="1361" ac="255"> choose</s><s t="1680" ac="255"> from</s></p>
+<p t="84630" d="4370" w="1" a="1">
+</p>
+<p t="84640" d="4360" w="1"><s ac="255">as</s><s t="159" ac="255"> a</s><s t="320" ac="255"> dipping</s><s t="640" ac="255"> sauce</s><s t="960" ac="255"> for</s><s t="1119" ac="255"> your</s><s t="1360" ac="255"> food</s></p>
+<p t="91110" w="1" a="1">
+</p>
+<p t="91120" d="19520" w="1">[Music]</p>
+<p t="108710" d="1930" w="1" a="1">
+</p>
+<p t="108720" d="4719" w="1"><s ac="255">now</s><s t="240" ac="255"> our</s><s t="399" ac="255"> next</s><s t="800" ac="255"> favorite</s><s t="1200" ac="255"> cuisine</s><s t="1679" ac="255"> in</s><s t="1840" ac="255"> the</s></p>
+<p t="110630" d="2809" w="1" a="1">
+</p>
+<p t="110640" d="5040" w="1"><s ac="255">world</s><s t="479" ac="255"> is</s><s t="799" ac="255"> everything</s><s t="1439" ac="255"> italian</s><s t="2240" ac="255"> i</s><s t="2400" ac="255"> found</s><s t="2640" ac="255"> this</s></p>
+<p t="113429" d="2251" w="1" a="1">
+</p>
+<p t="113439" d="4720" w="1"><s ac="255">one</s><s t="241" ac="255"> really</s><s t="561" ac="255"> hard</s><s t="881" ac="255"> guys</s><s t="1281" ac="255"> i</s><s t="1441" ac="255"> could</s><s t="1680" ac="255"> not</s><s t="1921" ac="255"> narrow</s></p>
+<p t="115670" d="2489" w="1" a="1">
+</p>
+<p t="115680" d="4719" w="1"><s ac="255">it</s><s t="79" ac="255"> down</s><s t="320" ac="255"> to</s><s t="399" ac="255"> my</s><s t="640" ac="255"> favorite</s><s t="960" ac="255"> italian</s><s t="1520" ac="255"> dish</s><s t="2160" ac="255"> so</s></p>
+<p t="118149" d="2250" w="1" a="1">
+</p>
+<p t="118159" d="4960" w="1"><s ac="255">everything</s><s t="401" ac="255"> italian</s><s t="960" ac="255"> makes</s><s t="1201" ac="255"> it</s><s t="1361" ac="255"> to</s><s t="1441" ac="255"> the</s><s t="1600" ac="255"> list</s></p>
+<p t="120389" d="2730" w="1" a="1">
+</p>
+<p t="120399" d="5201" w="1"><s ac="255">whether</s><s t="400" ac="255"> it</s><s t="561" ac="255"> is</s><s t="720" ac="255"> pasta</s><s t="1441" ac="255"> pizza</s><s t="2080" ac="255"> cheese</s><s t="2481" ac="255"> or</s></p>
+<p t="123109" d="2491" w="1" a="1">
+</p>
+<p t="123119" d="3680" w="1"><s ac="255">amazing</s><s t="561" ac="255"> coffee</s><s t="1360" ac="255"> make</s><s t="1521" ac="255"> sure</s><s t="1680" ac="255"> you</s><s t="1921" ac="255"> taste</s><s t="2320" ac="255"> all</s></p>
+<p t="125590" d="1209" w="1" a="1">
+</p>
+<p t="125600" d="3439" w="1"><s ac="255">of</s><s t="80" ac="255"> the</s><s t="159" ac="255"> local</s><s t="479" ac="255"> foods</s><s t="799" ac="255"> when</s><s t="960" ac="255"> you</s><s t="1119" ac="255"> are</s></p>
+<p t="126789" d="2250" w="1" a="1">
+</p>
+<p t="126799" d="5121" w="1"><s ac="255">exploring</s><s t="561" ac="255"> italy</s></p>
+<p t="129029" d="2891" w="1" a="1">
+</p>
+<p t="129039" d="5681" w="1"><s ac="255">now</s><s t="321" ac="255"> our</s><s t="481" ac="255"> next</s><s t="801" ac="255"> one</s><s t="1121" ac="255"> is</s><s t="1360" ac="255"> a</s><s t="1681" ac="255"> family</s><s t="2161" ac="255"> favorite</s></p>
+<p t="131910" d="2810" w="1" a="1">
+</p>
+<p t="131920" d="5200" w="1"><s ac="255">grilled</s><s t="560" ac="255"> cheese</s><s t="1039" ac="255"> in</s><s t="1120" ac="255"> the</s><s t="1200" ac="255"> usa</s><s t="2160" ac="255"> who</s><s t="2480" ac="255"> doesn&#39;t</s></p>
+<p t="134710" d="2410" w="1" a="1">
+</p>
+<p t="134720" d="4800" w="1"><s ac="255">love</s><s t="239" ac="255"> a</s><s t="400" ac="255"> grilled</s><s t="800" ac="255"> cheese</s><s t="1200" ac="255"> sandwich</s><s t="2080" ac="255"> this</s></p>
+<p t="137110" d="2410" w="1" a="1">
+</p>
+<p t="137120" d="5440" w="1"><s ac="255">classic</s><s t="479" ac="255"> american</s><s t="1040" ac="255"> sandwich</s><s t="1440" ac="255"> became</s><s t="1920" ac="255"> popular</s></p>
+<p t="139510" d="3050" w="1" a="1">
+</p>
+<p t="139520" d="6000" w="1"><s ac="255">in</s><s t="79" ac="255"> the</s><s t="160" ac="255"> united</s><s t="640" ac="255"> states</s><s t="1359" ac="255"> during</s><s t="1600" ac="255"> the</s><s t="1799" ac="255"> 1920s</s></p>
+<p t="142550" d="2970" w="1" a="1">
+</p>
+<p t="142560" d="5120" w="1"><s ac="255">when</s><s t="160" ac="255"> it</s><s t="240" ac="255"> was</s><s t="399" ac="255"> prepared</s><s t="960" ac="255"> open-faced</s><s t="2240" ac="255"> nowadays</s></p>
+<p t="145510" d="2170" w="1" a="1">
+</p>
+<p t="145520" d="4880" w="1"><s ac="255">you</s><s t="160" ac="255"> can</s><s t="400" ac="255"> find</s><s t="640" ac="255"> this</s><s t="880" ac="255"> melted</s><s t="1359" ac="255"> goodness</s><s t="1840" ac="255"> topped</s></p>
+<p t="147670" d="2730" w="1" a="1">
+</p>
+<p t="147680" d="6960" w="1"><s ac="255">with</s><s t="240" ac="255"> all</s><s t="480" ac="255"> sorts</s><s t="880" ac="255"> of</s><s t="1120" ac="255"> meats</s><s t="1520" ac="255"> and</s><s t="1680" ac="255"> sauces</s><s t="2480" ac="255"> in</s></p>
+<p t="150390" d="4250" w="1" a="1">
+</p>
+<p t="150400" d="4240" w="1"><s ac="255">cafes</s><s t="559" ac="255"> and</s><s t="800" ac="255"> restaurants</s><s t="1360" ac="255"> across</s><s t="1760" ac="255"> america</s></p>
+<p t="154869" w="1" a="1">
+</p>
+<p t="154879" d="5121" w="1"><s ac="255">our</s><s t="241" ac="255"> next</s><s t="481" ac="255"> favorite</s><s t="1041" ac="255"> dish</s><s t="1440" ac="255"> is</s><s t="1761" ac="255"> baguettes</s><s t="2481" ac="255"> from</s></p>
+<p t="157589" d="2411" w="1" a="1">
+</p>
+<p t="157599" d="5041" w="1"><s ac="255">france</s><s t="801" ac="255"> when</s><s t="1041" ac="255"> you</s><s t="1201" ac="255"> think</s><s t="1441" ac="255"> of</s><s t="1601" ac="255"> baguettes</s><s t="2161" ac="255"> you</s></p>
+<p t="159990" d="2650" w="1" a="1">
+</p>
+<p t="160000" d="4959" w="1"><s ac="255">obviously</s><s t="400" ac="255"> think</s><s t="640" ac="255"> of</s><s t="879" ac="255"> france</s><s t="1680" ac="255"> the</s><s t="1920" ac="255"> long</s><s t="2319" ac="255"> light</s></p>
+<p t="162630" d="2329" w="1" a="1">
+</p>
+<p t="162640" d="5040" w="1"><s ac="255">but</s><s t="239" ac="255"> crispy</s><s t="640" ac="255"> bread</s><s t="1040" ac="255"> dates</s><s t="1360" ac="255"> back</s><s t="1520" ac="255"> to</s><s t="1679" ac="255"> the</s><s t="1840" ac="255"> 19th</s></p>
+<p t="164949" d="2731" w="1" a="1">
+</p>
+<p t="164959" d="5201" w="1"><s ac="255">century</s><s t="801" ac="255"> and</s><s t="961" ac="255"> is</s><s t="1121" ac="255"> a</s><s t="1280" ac="255"> staple</s><s t="1681" ac="255"> for</s><s t="1920" ac="255"> visitors</s><s t="2481" ac="255"> and</s></p>
+<p t="167670" d="2490" w="1" a="1">
+</p>
+<p t="167680" d="4720" w="1"><s ac="255">residents</s><s t="639" ac="255"> in</s><s t="800" ac="255"> france</s><s t="1760" ac="255"> whilst</s><s t="2160" ac="255"> in</s><s t="2320" ac="255"> the</s></p>
+<p t="170150" d="2250" w="1" a="1">
+</p>
+<p t="170160" d="3840" w="1"><s ac="255">country</s><s t="640" ac="255"> visit</s><s t="960" ac="255"> the</s><s t="1120" ac="255"> bakeries</s><s t="1680" ac="255"> early</s><s t="2000" ac="255"> in</s><s t="2159" ac="255"> the</s></p>
+<p t="172390" d="1610" w="1" a="1">
+</p>
+<p t="172400" d="3280" w="1"><s ac="255">morning</s><s t="320" ac="255"> to</s><s t="400" ac="255"> get</s><s t="559" ac="255"> a</s><s t="720" ac="255"> fresh</s><s t="960" ac="255"> stick</s><s t="1280" ac="255"> of</s><s t="1360" ac="255"> bread</s></p>
+<p t="173990" d="1690" w="1" a="1">
+</p>
+<p t="174000" d="4000" w="1"><s ac="255">for</s><s t="239" ac="255"> breakfast</s></p>
+<p t="175670" d="2330" w="1" a="1">
+</p>
+<p t="175680" d="5199" w="1"><s ac="255">and</s><s t="240" ac="255"> the</s><s t="559" ac="255"> next</s><s t="880" ac="255"> favorite</s><s t="1279" ac="255"> food</s><s t="1600" ac="255"> is</s><s t="1760" ac="255"> a</s><s t="1919" ac="255"> close</s></p>
+<p t="177990" d="2889" w="1" a="1">
+</p>
+<p t="178000" d="5120" w="1"><s ac="255">one</s><s t="239" ac="255"> to</s><s t="400" ac="255"> me</s><s t="800" ac="255"> fish</s><s t="1200" ac="255"> and</s><s t="1360" ac="255"> chips</s><s t="1760" ac="255"> from</s><s t="2080" ac="255"> england</s></p>
+<p t="180869" d="2251" w="1" a="1">
+</p>
+<p t="180879" d="4801" w="1"><s ac="255">after</s><s t="401" ac="255"> a</s><s t="720" ac="255"> hopefully</s><s t="1440" ac="255"> warm</s><s t="1761" ac="255"> day</s><s t="2080" ac="255"> at</s><s t="2161" ac="255"> the</s></p>
+<p t="183110" d="2570" w="1" a="1">
+</p>
+<p t="183120" d="4800" w="1"><s ac="255">british</s><s t="479" ac="255"> seaside</s><s t="1360" ac="255"> there</s><s t="1600" ac="255"> is</s><s t="1759" ac="255"> nothing</s><s t="2160" ac="255"> better</s></p>
+<p t="185670" d="2250" w="1" a="1">
+</p>
+<p t="185680" d="5199" w="1"><s ac="255">than</s><s t="240" ac="255"> tucking</s><s t="559" ac="255"> into</s><s t="880" ac="255"> a</s><s t="960" ac="255"> good</s><s t="1279" ac="255"> portion</s><s t="1760" ac="255"> of</s><s t="1919" ac="255"> fish</s></p>
+<p t="187910" d="2969" w="1" a="1">
+</p>
+<p t="187920" d="5039" w="1"><s ac="255">and</s><s t="160" ac="255"> chips</s><s t="1039" ac="255"> get</s><s t="1280" ac="255"> yourself</s><s t="1760" ac="255"> a</s><s t="2000" ac="255"> battered</s><s t="2480" ac="255"> cod</s><s t="2800" ac="255"> or</s></p>
+<p t="190869" d="2090" w="1" a="1">
+</p>
+<p t="190879" d="7080" w="1"><s ac="255">haddock</s><s t="720" ac="255"> sprinkle</s><s t="1280" ac="255"> too</s><s t="1440" ac="255"> much</s><s t="1681" ac="255"> salt</s><s t="2000" ac="255"> and</s></p>
+<p t="192949" d="5010" w="1" a="1">
+</p>
+<p t="192959" d="5000" w="1"><s ac="255">vinegar</s><s t="481" ac="255"> over</s><s t="640" ac="255"> your</s><s t="801" ac="255"> greasy</s><s t="1280" ac="255"> chips</s><s t="1761" ac="255"> and</s><s t="2000" ac="255"> enjoy</s></p>
+<p t="200050" w="1" a="1">
+</p>
+<p t="200060" d="8179" w="1">[Music]</p>
+<p t="205270" d="2969" w="1" a="1">
+</p>
+<p t="205280" d="5760" w="1"><s ac="255">and</s><s t="239" ac="255"> the</s><s t="480" ac="255"> next</s><s t="959" ac="255"> best</s><s t="1280" ac="255"> food</s><s t="1679" ac="255"> around</s><s t="2000" ac="255"> the</s><s t="2160" ac="255"> world</s></p>
+<p t="208229" d="2811" w="1" a="1">
+</p>
+<p t="208239" d="4961" w="1"><s ac="255">is</s><s t="161" ac="255"> a</s><s t="321" ac="255"> green</s><s t="720" ac="255"> curry</s><s t="1201" ac="255"> from</s><s t="1521" ac="255"> thailand</s><s t="2481" ac="255"> one</s><s t="2720" ac="255"> of</s></p>
+<p t="211030" d="2170" w="1" a="1">
+</p>
+<p t="211040" d="4720" w="1"><s ac="255">the</s><s t="160" ac="255"> most</s><s t="479" ac="255"> amazing</s><s t="1040" ac="255"> things</s><s t="1360" ac="255"> about</s><s t="1680" ac="255"> traveling</s></p>
+<p t="213190" d="2570" w="1" a="1">
+</p>
+<p t="213200" d="4880" w="1"><s ac="255">in</s><s t="160" ac="255"> thailand</s><s t="880" ac="255"> is</s><s t="1039" ac="255"> the</s><s t="1119" ac="255"> green</s><s t="1440" ac="255"> thai</s><s t="1759" ac="255"> curry</s><s t="2319" ac="255"> the</s></p>
+<p t="215750" d="2330" w="1" a="1">
+</p>
+<p t="215760" d="5440" w="1"><s ac="255">curry</s><s t="399" ac="255"> isn&#39;t</s><s t="640" ac="255"> as</s><s t="720" ac="255"> spicy</s><s t="1199" ac="255"> as</s><s t="1440" ac="255"> other</s><s t="1759" ac="255"> options</s></p>
+<p t="218070" d="3130" w="1" a="1">
+</p>
+<p t="218080" d="5560" w="1"><s ac="255">but</s><s t="320" ac="255"> tastes</s><s t="640" ac="255"> delicious</s><s t="1519" ac="255"> and</s><s t="1760" ac="255"> is</s><s t="1920" ac="255"> always</s><s t="2239" ac="255"> fresh</s></p>
+<p t="221190" d="2450" w="1" a="1">
+</p>
+<p t="221200" d="8160" w="1"><s ac="255">definitely</s><s t="480" ac="255"> a</s><s t="640" ac="255"> must</s><s t="1119" ac="255"> in</s><s t="1280" ac="255"> thailand</s></p>
+<p t="223630" d="5730" w="1" a="1">
+</p>
+<p t="223640" d="7959" w="1">[Music]</p>
+<p t="229350" d="2249" w="1" a="1">
+</p>
+<p t="229360" d="5439" w="1"><s ac="255">and</s><s t="400" ac="255"> another</s><s t="879" ac="255"> favorite</s><s t="1200" ac="255"> dish</s><s t="1439" ac="255"> of</s><s t="1599" ac="255"> mine</s><s t="2000" ac="255"> is</s></p>
+<p t="231589" d="3210" w="1" a="1">
+</p>
+<p t="231599" d="5601" w="1"><s ac="255">quesadillas</s><s t="961" ac="255"> from</s><s t="1360" ac="255"> mexico</s><s t="2481" ac="255"> everyone</s><s t="2961" ac="255"> has</s></p>
+<p t="234789" d="2411" w="1" a="1">
+</p>
+<p t="234799" d="5121" w="1"><s ac="255">their</s><s t="241" ac="255"> favorite</s><s t="720" ac="255"> mexican</s><s t="1281" ac="255"> dish</s><s t="1761" ac="255"> but</s><s t="2000" ac="255"> nothing</s></p>
+<p t="237190" d="2730" w="1" a="1">
+</p>
+<p t="237200" d="5039" w="1"><s ac="255">tops</s><s t="319" ac="255"> the</s><s t="480" ac="255"> quesadilla</s><s t="1360" ac="255"> this</s><s t="1840" ac="255"> simple</s><s t="2319" ac="255"> flower</s></p>
+<p t="239910" d="2329" w="1" a="1">
+</p>
+<p t="239920" d="4879" w="1"><s ac="255">or</s><s t="239" ac="255"> corn</s><s t="560" ac="255"> tortilla</s><s t="1280" ac="255"> filled</s><s t="1519" ac="255"> with</s><s t="1840" ac="255"> cheese</s></p>
+<p t="242229" d="2570" w="1" a="1">
+</p>
+<p t="242239" d="5280" w="1"><s ac="255">meats</s><s t="401" ac="255"> and</s><s t="640" ac="255"> beans</s><s t="1280" ac="255"> is</s><s t="1441" ac="255"> a</s><s t="1521" ac="255"> staple</s><s t="2000" ac="255"> across</s><s t="2401" ac="255"> the</s></p>
+<p t="244789" d="2730" w="1" a="1">
+</p>
+<p t="244799" d="4800" w="1"><s ac="255">country</s><s t="640" ac="255"> and</s><s t="800" ac="255"> a</s><s t="961" ac="255"> must</s><s t="1281" ac="255"> try</s><s t="1520" ac="255"> for</s><s t="1761" ac="255"> travellers</s></p>
+<p t="247509" d="2090" w="1" a="1">
+</p>
+<p t="247519" d="4241" w="1"><s ac="255">plus</s><s t="401" ac="255"> it</s><s t="561" ac="255"> is</s><s t="800" ac="255"> fast</s><s t="1041" ac="255"> becoming</s><s t="1440" ac="255"> one</s><s t="1681" ac="255"> of</s><s t="1761" ac="255"> the</s><s t="1841" ac="255"> most</s></p>
+<p t="249589" d="2171" w="1" a="1">
+</p>
+<p t="249599" d="4640" w="1"><s ac="255">famous</s><s t="401" ac="255"> foods</s><s t="801" ac="255"> in</s><s t="881" ac="255"> the</s><s t="1041" ac="255"> world</s><s t="1601" ac="255"> so</s><s t="1761" ac="255"> you</s><s t="1920" ac="255"> can</s></p>
+<p t="251750" d="2489" w="1" a="1">
+</p>
+<p t="251760" d="3100" w="1"><s ac="255">experience</s><s t="640" ac="255"> it</s><s t="880" ac="255"> in</s><s t="1080" ac="255"> destinations</s><s t="2000" ac="255"> across</s><s t="2320" ac="255"> the</s></p>
+<p t="254229" d="631" w="1" a="1">
+</p>
+<p t="254239" d="12641" w="1"><s ac="255">globe</s></p>
+<p t="254850" d="12030" w="1" a="1">
+</p>
+<p t="254860" d="14020" w="1">[Music]</p>
+<p t="266870" d="2010" w="1" a="1">
+</p>
+<p t="266880" d="5039" w="1"><s ac="255">so</s><s t="240" ac="255"> our</s><s t="480" ac="255"> next</s><s t="879" ac="255"> favorite</s><s t="1280" ac="255"> dish</s><s t="1520" ac="255"> from</s><s t="1680" ac="255"> around</s></p>
+<p t="268870" d="3049" w="1" a="1">
+</p>
+<p t="268880" d="5280" w="1"><s ac="255">the</s><s t="160" ac="255"> world</s><s t="560" ac="255"> is</s><s t="800" ac="255"> fur</s><s t="1440" ac="255"> from</s><s t="1759" ac="255"> vietnam</s></p>
+<p t="271909" d="2251" w="1" a="1">
+</p>
+<p t="271919" d="4961" w="1"><s ac="255">if</s><s t="161" ac="255"> you</s><s t="321" ac="255"> have</s><s t="560" ac="255"> visited</s><s t="1041" ac="255"> vietnam</s><s t="1601" ac="255"> or</s><s t="1840" ac="255"> seen</s></p>
+<p t="274150" d="2730" w="1" a="1">
+</p>
+<p t="274160" d="4960" w="1"><s ac="255">photos</s><s t="479" ac="255"> of</s><s t="640" ac="255"> the</s><s t="800" ac="255"> bustling</s><s t="1280" ac="255"> cities</s><s t="1680" ac="255"> in</s><s t="1840" ac="255"> vietnam</s></p>
+<p t="276870" d="2250" w="1" a="1">
+</p>
+<p t="276880" d="5200" w="1"><s ac="255">chances</s><s t="560" ac="255"> are</s><s t="640" ac="255"> you</s><s t="800" ac="255"> have</s><s t="960" ac="255"> seen</s><s t="1280" ac="255"> a</s><s t="1520" ac="255"> hot</s><s t="1840" ac="255"> steaming</s></p>
+<p t="279110" d="2970" w="1" a="1">
+</p>
+<p t="279120" d="5359" w="1"><s ac="255">bowl</s><s t="320" ac="255"> of</s><s t="480" ac="255"> fur</s><s t="1280" ac="255"> this</s><s t="1600" ac="255"> vietnamese</s><s t="2240" ac="255"> noodle</s><s t="2639" ac="255"> soup</s></p>
+<p t="282070" d="2409" w="1" a="1">
+</p>
+<p t="282080" d="5280" w="1"><s ac="255">is</s><s t="160" ac="255"> a</s><s t="320" ac="255"> comfort</s><s t="800" ac="255"> food</s><s t="1119" ac="255"> for</s><s t="1280" ac="255"> locals</s><s t="2080" ac="255"> and</s><s t="2240" ac="255"> a</s></p>
+<p t="284469" d="2891" w="1" a="1">
+</p>
+<p t="284479" d="5201" w="1"><s ac="255">unique</s><s t="481" ac="255"> flavor</s><s t="961" ac="255"> for</s><s t="1121" ac="255"> western</s><s t="1601" ac="255"> visitors</s></p>
+<p t="287350" d="2330" w="1" a="1">
+</p>
+<p t="287360" d="4880" w="1"><s ac="255">most</s><s t="399" ac="255"> often</s><s t="880" ac="255"> served</s><s t="1200" ac="255"> with</s><s t="1440" ac="255"> chicken</s><s t="1839" ac="255"> or</s><s t="2080" ac="255"> beef</s></p>
+<p t="289670" d="2570" w="1" a="1">
+</p>
+<p t="289680" d="5200" w="1"><s ac="255">broth</s><s t="720" ac="255"> you</s><s t="880" ac="255"> can</s><s t="1120" ac="255"> find</s><s t="1519" ac="255"> varieties</s><s t="2239" ac="255"> of</s><s t="2320" ac="255"> this</s></p>
+<p t="292230" d="2650" w="1" a="1">
+</p>
+<p t="292240" d="6399" w="1"><s ac="255">traditional</s><s t="560" ac="255"> dish</s><s t="1040" ac="255"> all</s><s t="1360" ac="255"> over</s><s t="1600" ac="255"> the</s><s t="1679" ac="255"> country</s></p>
+<p t="294870" d="3769" w="1" a="1">
+</p>
+<p t="294880" d="6240" w="1"><s ac="255">and</s><s t="240" ac="255"> no</s><s t="560" ac="255"> two</s><s t="879" ac="255"> versions</s><s t="1440" ac="255"> will</s><s t="1599" ac="255"> taste</s><s t="1920" ac="255"> the</s><s t="2080" ac="255"> same</s></p>
+<p t="298629" d="2491" w="1" a="1">
+</p>
+<p t="298639" d="5441" w="1"><s ac="255">now</s><s t="241" ac="255"> our</s><s t="481" ac="255"> next</s><s t="961" ac="255"> best</s><s t="1280" ac="255"> dish</s><s t="1601" ac="255"> to</s><s t="1681" ac="255"> eat</s><s t="2000" ac="255"> around</s><s t="2321" ac="255"> the</s></p>
+<p t="301110" d="2970" w="1" a="1">
+</p>
+<p t="301120" d="5840" w="1"><s ac="255">world</s><s t="480" ac="255"> is</s><s t="720" ac="255"> paella</s><s t="1280" ac="255"> from</s><s t="1519" ac="255"> spain</s><s t="2400" ac="255"> originally</s></p>
+<p t="304070" d="2890" w="1" a="1">
+</p>
+<p t="304080" d="5760" w="1"><s ac="255">from</s><s t="240" ac="255"> valencia</s><s t="1200" ac="255"> this</s><s t="1600" ac="255"> paella</s><s t="2080" ac="255"> dish</s><s t="2480" ac="255"> can</s><s t="2640" ac="255"> be</s></p>
+<p t="306950" d="2890" w="1" a="1">
+</p>
+<p t="306960" d="5760" w="1"><s ac="255">found</s><s t="400" ac="255"> across</s><s t="799" ac="255"> spain</s><s t="1440" ac="255"> and</s><s t="1600" ac="255"> is</s><s t="1760" ac="255"> a</s><s t="2000" ac="255"> must</s><s t="2400" ac="255"> try</s><s t="2640" ac="255"> for</s></p>
+<p t="309830" d="2890" w="1" a="1">
+</p>
+<p t="309840" d="5600" w="1"><s ac="255">visitors</s><s t="1040" ac="255"> the</s><s t="1280" ac="255"> national</s><s t="1760" ac="255"> rice</s><s t="2160" ac="255"> dish</s><s t="2720" ac="255"> is</s></p>
+<p t="312710" d="2730" w="1" a="1">
+</p>
+<p t="312720" d="5600" w="1"><s ac="255">typically</s><s t="560" ac="255"> served</s><s t="880" ac="255"> with</s><s t="1120" ac="255"> vegetables</s><s t="2080" ac="255"> saffron</s></p>
+<p t="315430" d="2890" w="1" a="1">
+</p>
+<p t="315440" d="7120" w="1"><s ac="255">and</s><s t="240" ac="255"> seafood</s><s t="880" ac="255"> or</s><s t="1039" ac="255"> meat</s><s t="1840" ac="255"> sometimes</s><s t="2400" ac="255"> it</s><s t="2560" ac="255"> can</s><s t="2720" ac="255"> be</s></p>
+<p t="318310" d="4250" w="1" a="1">
+</p>
+<p t="318320" d="6080" w="1"><s ac="255">served</s><s t="319" ac="255"> with</s><s t="560" ac="255"> chicken</s><s t="1120" ac="255"> rabbit</s><s t="1680" ac="255"> or</s><s t="1920" ac="255"> duck</s></p>
+<p t="322550" d="1850" w="1" a="1">
+</p>
+<p t="322560" d="4400" w="1"><s ac="255">now</s><s t="240" ac="255"> our</s><s t="479" ac="255"> next</s><s t="800" ac="255"> favorite</s><s t="1120" ac="255"> dish</s><s t="1520" ac="255"> is</s><s t="1680" ac="255"> all</s><s t="1840" ac="255"> the</s></p>
+<p t="324390" d="2570" w="1" a="1">
+</p>
+<p t="324400" d="5359" w="1"><s ac="255">way</s><s t="239" ac="255"> from</s><s t="480" ac="255"> india</s><s t="960" ac="255"> it</s><s t="1120" ac="255"> is</s><s t="1280" ac="255"> biryani</s></p>
+<p t="326950" d="2809" w="1" a="1">
+</p>
+<p t="326960" d="5440" w="1"><s ac="255">this</s><s t="400" ac="255"> northern</s><s t="880" ac="255"> indian</s><s t="1360" ac="255"> classic</s><s t="1920" ac="255"> dish</s><s t="2640" ac="255"> is</s></p>
+<p t="329749" d="2651" w="1" a="1">
+</p>
+<p t="329759" d="5440" w="1"><s ac="255">enjoyed</s><s t="561" ac="255"> by</s><s t="801" ac="255"> many</s><s t="1201" ac="255"> throughout</s><s t="1681" ac="255"> the</s><s t="1761" ac="255"> world</s><s t="2401" ac="255"> the</s></p>
+<p t="332390" d="2809" w="1" a="1">
+</p>
+<p t="332400" d="4799" w="1"><s ac="255">rice</s><s t="400" ac="255"> based</s><s t="720" ac="255"> dish</s><s t="1120" ac="255"> includes</s><s t="1600" ac="255"> spices</s><s t="2320" ac="255"> meats</s></p>
+<p t="335189" d="2010" w="1" a="1">
+</p>
+<p t="335199" d="4560" w="1"><s ac="255">eggs</s><s t="321" ac="255"> and</s><s t="560" ac="255"> vegetables</s><s t="1440" ac="255"> with</s><s t="1681" ac="255"> some</s></p>
+<p t="337189" d="2570" w="1" a="1">
+</p>
+<p t="337199" d="5681" w="1"><s ac="255">restaurants</s><s t="641" ac="255"> offering</s><s t="1041" ac="255"> biryani</s><s t="1681" ac="255"> with</s><s t="1921" ac="255"> nuts</s></p>
+<p t="339749" d="3131" w="1" a="1">
+</p>
+<p t="339759" d="4961" w="1"><s ac="255">dried</s><s t="401" ac="255"> fruit</s><s t="801" ac="255"> or</s><s t="1041" ac="255"> yogurt</s><s t="1521" ac="255"> included</s><s t="2081" ac="255"> as</s><s t="2160" ac="255"> well</s></p>
+<p t="342870" d="1850" w="1" a="1">
+</p>
+<p t="342880" d="3840" w="1"><s ac="255">now</s><s t="240" ac="255"> our</s><s t="400" ac="255"> next</s><s t="640" ac="255"> favorite</s><s t="960" ac="255"> food</s><s t="1200" ac="255"> is</s><s t="1360" ac="255"> a</s><s t="1440" ac="255"> slightly</s></p>
+<p t="344710" d="2010" w="1" a="1">
+</p>
+<p t="344720" d="4800" w="1"><s ac="255">more</s><s t="240" ac="255"> healthier</s><s t="640" ac="255"> option</s><s t="1039" ac="255"> it</s><s t="1199" ac="255"> is</s><s t="1360" ac="255"> the</s><s t="1520" ac="255"> humble</s></p>
+<p t="346710" d="2810" w="1" a="1">
+</p>
+<p t="346720" d="4640" w="1"><s ac="255">greek</s><s t="400" ac="255"> salad</s><s t="880" ac="255"> from</s><s t="1120" ac="255"> greece</s><s t="1919" ac="255"> now</s><s t="2160" ac="255"> i</s><s t="2319" ac="255"> am</s><s t="2479" ac="255"> a</s><s t="2560" ac="255"> big</s></p>
+<p t="349510" d="1850" w="1" a="1">
+</p>
+<p t="349520" d="3600" w="1"><s ac="255">lover</s><s t="239" ac="255"> of</s><s t="399" ac="255"> feta</s><s t="800" ac="255"> cheese</s><s t="1040" ac="255"> so</s><s t="1200" ac="255"> this</s><s t="1360" ac="255"> is</s><s t="1519" ac="255"> partly</s></p>
+<p t="351350" d="1770" w="1" a="1">
+</p>
+<p t="351360" d="3760" w="1"><s ac="255">why</s><s t="160" ac="255"> this</s><s t="320" ac="255"> made</s><s t="559" ac="255"> it</s><s t="640" ac="255"> to</s><s t="800" ac="255"> the</s><s t="880" ac="255"> list</s><s t="1520" ac="255"> but</s></p>
+<p t="353110" d="2010" w="1" a="1">
+</p>
+<p t="353120" d="4480" w="1"><s ac="255">although</s><s t="400" ac="255"> it</s><s t="560" ac="255"> is</s><s t="720" ac="255"> found</s><s t="1040" ac="255"> in</s><s t="1200" ac="255"> many</s><s t="1519" ac="255"> places</s></p>
+<p t="355110" d="2490" w="1" a="1">
+</p>
+<p t="355120" d="5280" w="1"><s ac="255">around</s><s t="320" ac="255"> the</s><s t="400" ac="255"> world</s><s t="1120" ac="255"> nothing</s><s t="1519" ac="255"> beats</s><s t="1919" ac="255"> trying</s><s t="2320" ac="255"> a</s></p>
+<p t="357590" d="2810" w="1" a="1">
+</p>
+<p t="357600" d="5200" w="1"><s ac="255">greek</s><s t="400" ac="255"> salad</s><s t="879" ac="255"> in</s><s t="1120" ac="255"> athens</s><s t="2080" ac="255"> this</s><s t="2319" ac="255"> traditional</s></p>
+<p t="360390" d="2410" w="1" a="1">
+</p>
+<p t="360400" d="4639" w="1"><s ac="255">greek</s><s t="320" ac="255"> dish</s><s t="639" ac="255"> is</s><s t="799" ac="255"> not</s><s t="1040" ac="255"> only</s><s t="1280" ac="255"> delicious</s><s t="2160" ac="255"> but</s></p>
+<p t="362790" d="2249" w="1" a="1">
+</p>
+<p t="362800" d="3900" w="1"><s ac="255">also</s><s t="399" ac="255"> healthy</s><s t="1119" ac="255"> and</s><s t="1280" ac="255"> is</s><s t="1440" ac="255"> definitely</s><s t="1839" ac="255"> worth</s></p>
+<p t="365029" d="1671" w="1" a="1">
+</p>
+<p t="365039" d="9141" w="1"><s ac="255">eating</s><s t="241" ac="255"> when</s><s t="481" ac="255"> visiting</s><s t="961" ac="255"> greece</s></p>
+<p t="366690" d="7490" w="1" a="1">
+</p>
+<p t="366700" d="7480" w="1">[Music]</p>
+<p t="375189" w="1" a="1">
+</p>
+<p t="375199" d="4081" w="1"><s ac="255">so</s><s t="241" ac="255"> we</s><s t="401" ac="255"> have</s><s t="641" ac="255"> talked</s><s t="961" ac="255"> about</s><s t="1280" ac="255"> some</s><s t="1521" ac="255"> of</s><s t="1681" ac="255"> our</s></p>
+<p t="377029" d="2251" w="1" a="1">
+</p>
+<p t="377039" d="4241" w="1"><s ac="255">favorite</s><s t="481" ac="255"> dishes</s><s t="880" ac="255"> around</s><s t="1121" ac="255"> the</s><s t="1280" ac="255"> world</s><s t="1841" ac="255"> but</s><s t="2081" ac="255"> of</s></p>
+<p t="379270" d="2010" w="1" a="1">
+</p>
+<p t="379280" d="4479" w="1"><s ac="255">course</s><s t="400" ac="255"> we</s><s t="639" ac="255"> couldn&#39;t</s><s t="960" ac="255"> do</s><s t="1120" ac="255"> this</s><s t="1359" ac="255"> list</s><s t="1600" ac="255"> without</s></p>
+<p t="381270" d="2489" w="1" a="1">
+</p>
+<p t="381280" d="4639" w="1"><s ac="255">including</s><s t="400" ac="255"> some</s><s t="720" ac="255"> amazing</s><s t="1199" ac="255"> desserts</s><s t="1759" ac="255"> as</s><s t="1919" ac="255"> well</s></p>
+<p t="383749" d="2170" w="1" a="1">
+</p>
+<p t="383759" d="5041" w="1"><s ac="255">so</s><s t="241" ac="255"> a</s><s t="321" ac="255"> very</s><s t="720" ac="255"> unique</s><s t="1201" ac="255"> dessert</s><s t="1601" ac="255"> that</s><s t="1761" ac="255"> you</s><s t="1921" ac="255"> can</s></p>
+<p t="385909" d="2891" w="1" a="1">
+</p>
+<p t="385919" d="6000" w="1"><s ac="255">try</s><s t="321" ac="255"> whilst</s><s t="641" ac="255"> you&#39;re</s><s t="881" ac="255"> in</s><s t="1120" ac="255"> asia</s><s t="1521" ac="255"> is</s><s t="1840" ac="255"> durian</s></p>
+<p t="388790" d="3129" w="1" a="1">
+</p>
+<p t="388800" d="5440" w="1"><s ac="255">known</s><s t="320" ac="255"> as</s><s t="560" ac="255"> the</s><s t="800" ac="255"> king</s><s t="1200" ac="255"> of</s><s t="1440" ac="255"> fruit</s><s t="2080" ac="255"> this</s><s t="2560" ac="255"> stinky</s></p>
+<p t="391909" d="2331" w="1" a="1">
+</p>
+<p t="391919" d="4720" w="1"><s ac="255">tropical</s><s t="641" ac="255"> fruit</s><s t="1280" ac="255"> is</s><s t="1441" ac="255"> popular</s><s t="2000" ac="255"> across</s></p>
+<p t="394230" d="2409" w="1" a="1">
+</p>
+<p t="394240" d="5600" w="1"><s ac="255">southeast</s><s t="799" ac="255"> asia</s><s t="1360" ac="255"> and</s><s t="1600" ac="255"> is</s><s t="1679" ac="255"> particularly</s></p>
+<p t="396629" d="3211" w="1" a="1">
+</p>
+<p t="396639" d="6081" w="1"><s ac="255">popular</s><s t="481" ac="255"> in</s><s t="721" ac="255"> thailand</s><s t="1680" ac="255"> however</s><s t="2400" ac="255"> it</s><s t="2641" ac="255"> gives</s><s t="2961" ac="255"> off</s></p>
+<p t="399830" d="2890" w="1" a="1">
+</p>
+<p t="399840" d="6720" w="1"><s ac="255">such</s><s t="400" ac="255"> a</s><s t="560" ac="255"> bad</s><s t="960" ac="255"> odour</s><s t="1520" ac="255"> that</s><s t="1680" ac="255"> it</s><s t="1840" ac="255"> is</s><s t="2079" ac="255"> often</s><s t="2479" ac="255"> banned</s></p>
+<p t="402710" d="3850" w="1" a="1">
+</p>
+<p t="402720" d="6560" w="1"><s ac="255">from</s><s t="319" ac="255"> trains</s><s t="960" ac="255"> buses</s><s t="1520" ac="255"> and</s><s t="1759" ac="255"> planes</s></p>
+<p t="406550" d="2730" w="1" a="1">
+</p>
+<p t="406560" d="6079" w="1"><s ac="255">whilst</s><s t="320" ac="255"> you&#39;re</s><s t="560" ac="255"> in</s><s t="720" ac="255"> southeast</s><s t="1280" ac="255"> asia</s><s t="2079" ac="255"> try</s><s t="2479" ac="255"> the</s></p>
+<p t="409270" d="3369" w="1" a="1">
+</p>
+<p t="409280" d="6720" w="1"><s ac="255">creamy</s><s t="560" ac="255"> custard-like</s><s t="1359" ac="255"> fruit</s><s t="2000" ac="255"> in</s><s t="2240" ac="255"> cakes</s><s t="3120" ac="255"> ice</s></p>
+<p t="412629" d="3371" w="1" a="1">
+</p>
+<p t="412639" d="5280" w="1"><s ac="255">cream</s><s t="481" ac="255"> shaved</s><s t="960" ac="255"> ice</s><s t="1521" ac="255"> or</s><s t="1840" ac="255"> as</s><s t="2081" ac="255"> a</s><s t="2161" ac="255"> fritter</s><s t="3041" ac="255"> it</s><s t="3201" ac="255"> is</s></p>
+<p t="415990" d="1929" w="1" a="1">
+</p>
+<p t="416000" d="4780" w="1"><s ac="255">incredibly</s><s t="560" ac="255"> healthy</s><s t="960" ac="255"> for</s><s t="1120" ac="255"> you</s><s t="1360" ac="255"> but</s><s t="1520" ac="255"> also</s></p>
+<p t="417909" d="2871" w="1" a="1">
+</p>
+<p t="417919" d="8971" w="1"><s ac="255">tastes</s><s t="400" ac="255"> pretty</s><s t="720" ac="255"> good</s><s t="961" ac="255"> as</s><s t="1120" ac="255"> well</s></p>
+<p t="420770" d="6120" w="1" a="1">
+</p>
+<p t="420780" d="6110" w="1">[Music]</p>
+<p t="427189" w="1" a="1">
+</p>
+<p t="427199" d="6000" w="1"><s ac="255">now</s><s t="241" ac="255"> our</s><s t="481" ac="255"> next</s><s t="1120" ac="255"> popular</s><s t="1840" ac="255"> and</s><s t="2161" ac="255"> favorite</s></p>
+<p t="429830" d="3369" w="1" a="1">
+</p>
+<p t="429840" d="5840" w="1"><s ac="255">dessert</s><s t="720" ac="255"> is</s><s t="880" ac="255"> a</s><s t="960" ac="255"> pavlova</s><s t="1759" ac="255"> from</s><s t="2000" ac="255"> new</s><s t="2240" ac="255"> zealand</s></p>
+<p t="433189" d="2491" w="1" a="1">
+</p>
+<p t="433199" d="4801" w="1"><s ac="255">named</s><s t="400" ac="255"> after</s><s t="720" ac="255"> the</s><s t="881" ac="255"> delicate</s><s t="1440" ac="255"> ballerina</s><s t="2321" ac="255"> the</s></p>
+<p t="435670" d="2330" w="1" a="1">
+</p>
+<p t="435680" d="3440" w="1"><s ac="255">pavlova</s><s t="720" ac="255"> is</s><s t="880" ac="255"> the</s><s t="1040" ac="255"> perfect</s><s t="1600" ac="255"> summer</s><s t="1919" ac="255"> treat</s></p>
+<p t="437990" d="1130" w="1" a="1">
+</p>
+<p t="438000" d="3919" w="1"><s ac="255">dessert</s></p>
+<p t="439110" d="2809" w="1" a="1">
+</p>
+<p t="439120" d="5199" w="1"><s ac="255">with</s><s t="320" ac="255"> a</s><s t="560" ac="255"> sugary</s><s t="1199" ac="255"> meringue</s><s t="1840" ac="255"> topped</s><s t="2160" ac="255"> with</s><s t="2400" ac="255"> fruit</s></p>
+<p t="441909" d="2410" w="1" a="1">
+</p>
+<p t="441919" d="4720" w="1"><s ac="255">and</s><s t="241" ac="255"> whipped</s><s t="560" ac="255"> cream</s><s t="1361" ac="255"> this</s><s t="1601" ac="255"> dessert</s><s t="2161" ac="255"> is</s></p>
+<p t="444309" d="2330" w="1" a="1">
+</p>
+<p t="444319" d="4121" w="1"><s ac="255">perfect</s><s t="561" ac="255"> for</s><s t="801" ac="255"> anyone</s><s t="1280" ac="255"> with</s><s t="1521" ac="255"> a</s><s t="1600" ac="255"> real</s><s t="1921" ac="255"> sweet</s></p>
+<p t="446629" d="1811" w="1" a="1">
+</p>
+<p t="446639" d="13680" w="1"><s ac="255">tooth</s></p>
+<p t="448430" d="11889" w="1" a="1">
+</p>
+<p t="448440" d="14039" w="1">[Music]</p>
+<p t="460309" d="2170" w="1" a="1">
+</p>
+<p t="460319" d="3681" w="1"><s ac="255">and</s><s t="320" ac="255"> last</s><s t="561" ac="255"> but</s><s t="720" ac="255"> not</s><s t="961" ac="255"> least</s><s t="1361" ac="255"> our</s><s t="1600" ac="255"> favorite</s><s t="1921" ac="255"> type</s></p>
+<p t="462469" d="1531" w="1" a="1">
+</p>
+<p t="462479" d="2961" w="1"><s ac="255">of</s><s t="81" ac="255"> food</s><s t="321" ac="255"> around</s><s t="641" ac="255"> the</s><s t="720" ac="255"> world</s><s t="1041" ac="255"> and</s><s t="1120" ac="255"> this</s></p>
+<p t="463990" d="1450" w="1" a="1">
+</p>
+<p t="464000" d="4960" w="1"><s ac="255">definitely</s><s t="400" ac="255"> is</s><s t="479" ac="255"> one</s><s t="639" ac="255"> of</s><s t="720" ac="255"> my</s><s t="879" ac="255"> favorite</s><s t="1199" ac="255"> things</s></p>
+<p t="465430" d="3530" w="1" a="1">
+</p>
+<p t="465440" d="6240" w="1"><s ac="255">to</s><s t="159" ac="255"> do</s><s t="720" ac="255"> is</s><s t="1039" ac="255"> afternoon</s><s t="1680" ac="255"> tea</s><s t="2080" ac="255"> in</s><s t="2400" ac="255"> england</s></p>
+<p t="468950" d="2730" w="1" a="1">
+</p>
+<p t="468960" d="6160" w="1"><s ac="255">this</s><s t="320" ac="255"> old</s><s t="720" ac="255"> british</s><s t="1280" ac="255"> tradition</s><s t="1919" ac="255"> of</s><s t="2079" ac="255"> having</s><s t="2480" ac="255"> a</s></p>
+<p t="471670" d="3450" w="1" a="1">
+</p>
+<p t="471680" d="6560" w="1"><s ac="255">tea</s><s t="480" ac="255"> between</s><s t="959" ac="255"> 3</s><s t="1280" ac="255"> and</s><s t="1440" ac="255"> 5</s><s t="1760" ac="255"> p.m</s><s t="2480" ac="255"> has</s><s t="2799" ac="255"> become</s><s t="3199" ac="255"> a</s></p>
+<p t="475110" d="3130" w="1" a="1">
+</p>
+<p t="475120" d="6000" w="1"><s ac="255">tourist</s><s t="639" ac="255"> must-do</s><s t="1120" ac="255"> when</s><s t="1359" ac="255"> in</s><s t="1519" ac="255"> the</s><s t="1680" ac="255"> uk</s><s t="2560" ac="255"> enjoy</s></p>
+<p t="478230" d="2890" w="1" a="1">
+</p>
+<p t="478240" d="5679" w="1"><s ac="255">sweet</s><s t="480" ac="255"> and</s><s t="799" ac="255"> savory</s><s t="1519" ac="255"> mini</s><s t="1840" ac="255"> treats</s><s t="2320" ac="255"> along</s><s t="2560" ac="255"> with</s></p>
+<p t="481110" d="2809" w="1" a="1">
+</p>
+<p t="481120" d="5199" w="1"><s ac="255">tea</s><s t="479" ac="255"> scones</s><s t="1120" ac="255"> jam</s><s t="1440" ac="255"> and</s><s t="1600" ac="255"> cream</s><s t="2240" ac="255"> this</s><s t="2479" ac="255"> is</s><s t="2560" ac="255"> one</s><s t="2720" ac="255"> of</s></p>
+<p t="483909" d="2410" w="1" a="1">
+</p>
+<p t="483919" d="4081" w="1"><s ac="255">my</s><s t="241" ac="255"> favorite</s><s t="641" ac="255"> things</s><s t="960" ac="255"> to</s><s t="1120" ac="255"> do</s><s t="1361" ac="255"> in</s><s t="1521" ac="255"> the</s><s t="1680" ac="255"> uk</s><s t="2161" ac="255"> and</s><s t="2321" ac="255"> i</s></p>
+<p t="486309" d="1691" w="1" a="1">
+</p>
+<p t="486319" d="3311" w="1"><s ac="255">would</s><s t="241" ac="255"> highly</s><s t="641" ac="255"> recommend</s><s t="1041" ac="255"> doing</s><s t="1280" ac="255"> it</s><s t="1361" ac="255"> when</s><s t="1521" ac="255"> you</s></p>
+<p t="487990" d="1640" w="1" a="1">
+</p>
+<p t="488000" d="12960" w="1"><s ac="255">are</s><s t="80" ac="255"> visiting</s></p>
+<p t="489620" d="11340" w="1" a="1">
+</p>
+<p t="489630" d="14129" w="1">[Music]</p>
+<p t="500950" d="2809" w="1" a="1">
+</p>
+<p t="500960" d="4720" w="1"><s ac="255">those</s><s t="320" ac="255"> are</s><s t="400" ac="255"> just</s><s t="720" ac="255"> our</s><s t="1200" ac="255"> top</s><s t="1519" ac="255"> 15</s><s t="2079" ac="255"> best</s><s t="2400" ac="255"> foods</s></p>
+<p t="503749" d="1931" w="1" a="1">
+</p>
+<p t="503759" d="4081" w="1"><s ac="255">around</s><s t="321" ac="255"> the</s><s t="481" ac="255"> world</s><s t="1120" ac="255"> let</s><s t="1280" ac="255"> us</s><s t="1361" ac="255"> know</s><s t="1521" ac="255"> what</s><s t="1681" ac="255"> your</s></p>
+<p t="505670" d="2170" w="1" a="1">
+</p>
+<p t="505680" d="3440" w="1"><s ac="255">favorite</s><s t="400" ac="255"> foods</s><s t="720" ac="255"> are</s><s t="880" ac="255"> in</s><s t="959" ac="255"> the</s><s t="1120" ac="255"> comments</s><s t="1519" ac="255"> below</s></p>
+<p t="507830" d="1290" w="1" a="1">
+</p>
+<p t="507840" d="2880" w="1"><s ac="255">thank</s><s t="240" ac="255"> you</s><s t="400" ac="255"> so</s><s t="560" ac="255"> much</s><s t="720" ac="255"> for</s><s t="880" ac="255"> watching</s><s t="1120" ac="255"> this</s></p>
+<p t="509110" d="1610" w="1" a="1">
+</p>
+<p t="509120" d="2960" w="1"><s ac="255">video</s><s t="320" ac="255"> if</s><s t="479" ac="255"> you</s><s t="720" ac="255"> liked</s><s t="960" ac="255"> it</s><s t="1120" ac="255"> please</s><s t="1359" ac="255"> make</s><s t="1519" ac="255"> sure</s></p>
+<p t="510710" d="1370" w="1" a="1">
+</p>
+<p t="510720" d="3999" w="1"><s ac="255">you</s><s t="80" ac="255"> give</s><s t="159" ac="255"> us</s><s t="319" ac="255"> a</s><s t="479" ac="255"> thumbs</s><s t="800" ac="255"> up</s><s t="960" ac="255"> and</s><s t="1120" ac="255"> hit</s></p>
+<p t="512070" d="2649" w="1" a="1">
+</p>
+<p t="512080" d="4800" w="1"><s ac="255">subscribe</s><s t="1040" ac="255"> take</s><s t="1360" ac="255"> care</s><s t="1680" ac="255"> guys</s><s t="2079" ac="255"> keep</s><s t="2319" ac="255"> eating</s></p>
+<p t="514709" d="2171" w="1" a="1">
+</p>
+<p t="514719" d="7120" w="1"><s ac="255">some</s><s t="161" ac="255"> amazing</s><s t="641" ac="255"> foods</s><s t="880" ac="255"> around</s><s t="1120" ac="255"> the</s><s t="1200" ac="255"> world</s><s t="1841" ac="255"> stay</s></p>
+<p t="516870" d="4969" w="1" a="1">
+</p>
+<p t="516880" d="4959" w="1"><s ac="255">safe</s><s t="320" ac="255"> and</s><s t="480" ac="255"> until</s><s t="880" ac="255"> next</s><s t="1120" ac="255"> time</s><s t="1680" ac="255"> stay</s><s t="2000" ac="255"> creative</s></p>
+<p t="521840" w="1" a="1">
+</p>
+<p t="521850" d="19910" w="1">[Music]</p>
+<p t="539670" d="2090" w="1" a="1">
+</p>
+<p t="539680" d="2080" w="1"><s ac="255">you</s></p>
+</body>
+</timedtext>
