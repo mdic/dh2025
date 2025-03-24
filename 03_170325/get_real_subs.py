@@ -73,14 +73,14 @@ for url in all_links:
             }
 
             # Download subtitles
-            with YoutubeDL(ydl_opts) as ydl:
-                ydl.download([url])
+            # with YoutubeDL(ydl_opts) as ydl:
+            #     ydl.download([url])
 
-            # with open(f"{info_dict['id']}.jsonl", "a") as f:
-            #     print(f"Saving comments to {info_dict['id']}.jsonl")
-            #     for comment in downloader.get_comments_from_url(url):
-            #         json.dump(comment, f, ensure_ascii=False)
-            #         f.write("\n")
+            with open(f"{info_dict['id']}.jsonl", "a") as f:
+                print(f"Saving comments to {info_dict['id']}.jsonl")
+                for comment in downloader.get_comments_from_url(url):
+                    json.dump(comment, f, ensure_ascii=False)
+                    f.write("\n")
 
     except Exception as e:
         print(f"Error processing {url}: {e}")
